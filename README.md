@@ -1,7 +1,7 @@
 <center><h1> Hello World 🖖 </h1></center>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQwejJlZHg2eHBxbms1M3gyZWF5amdvZXlwYzZ2aDd6emhqYWJjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFEQEDLmhrYsse0zFF/giphy.gif" alt="Adoro esse gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQwejJlZHg2eHBxbms1M3gyZWF5amdvZXlwYzZ2aDd6emhqYWJjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bFEQEDLmhrYsse0zFF/giphy.gif" alt="Adoro esse gif" width="700px">
 </p>
 
 
