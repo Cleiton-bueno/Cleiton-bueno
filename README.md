@@ -4,7 +4,7 @@
 
 ---
 👋 Me chamo, Cleiton<br>
-👨‍🎓 Análise e desenvolvimneto de sistemas - Estácio <br>
+👨‍🎓 Análise e desenvolvimento de sistemas - Estácio <br>
 🧑‍💻 Desenvolvedor Front-End<br>
 
 
@@ -15,15 +15,16 @@
 
 ## Tecnologias que trabalho:
 
-HTML5, CSS3, JavaScript
-Frameworks como React.js e Vue.js
-Versionamento de código com Git
+HTML5, CSS3, JavaScript<br>
+Frameworks como React.js e Vue.js<br>
+Versionamento de código com Git<br>
 
 
 ### Contato:
 
-LinkedIn: Seu perfil no LinkedIn
-Email: seuemail@example.com
-Website: seuwebsite.com
+[LinkedIn](https://www.linkedin.com/in/cleiton-bueno/)
+
+
+
 Fique à vontade para explorar meus projetos e entrar em contato!
 
