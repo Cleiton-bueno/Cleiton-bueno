@@ -1,4 +1,4 @@
-# <center>Hello World 🖖</center>
+# <p align="Center">Hello World 🖖</p>
 
 
 <p align="center">
