@@ -11,9 +11,17 @@
 
 ## ALGUNS PROJETOS FRONTEND:
 
+- Falta adicionar - (Pendente)
+
 
 
 ## Tecnologias que trabalho:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="80px">
+          
 
 HTML5, CSS3, JavaScript<br>
 Frameworks como React.js e Vue.js<br>
@@ -24,8 +32,6 @@ Versionamento de código com Git<br>
 
 [LinkedIn](https://www.linkedin.com/in/cleiton-bueno/)
 
-
-[LinkedIn]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
           
           
 
