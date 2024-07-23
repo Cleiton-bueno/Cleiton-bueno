@@ -1,9 +1,11 @@
-# Meu GitHub
- ![Texto da mensagem](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif)
+<center><h1>Hello World 🖖 </h1></center>
 
-Me chamo, Cleiton
-Análise e desenvolvimneto de sistemas - Estácio
-Desenvolvedor Front-End
+ ![Adoro esse gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif)
+
+---
+👋 Me chamo, Cleiton<br>
+👨‍🎓 Análise e desenvolvimneto de sistemas - Estácio <br>
+🧑‍💻 Desenvolvedor Front-End<br>
 
 
 
@@ -18,7 +20,7 @@ Frameworks como React.js e Vue.js
 Versionamento de código com Git
 
 
-### ContatoÇ
+### Contato:
 
 LinkedIn: Seu perfil no LinkedIn
 Email: seuemail@example.com
