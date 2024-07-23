@@ -4,7 +4,7 @@
 
 ---
 👋 Me chamo, Cleiton<br>
-👨‍🎓 Análise e desenvolvimento de sistemas - Estácio <br>
+📖 Análise e desenvolvimento de sistemas - Estácio <br>
 🧑‍💻 Desenvolvedor Front-End<br>
 
 ## ALGUNS PROJETOS FRONTEND:
@@ -24,8 +24,8 @@
 
 ## Contato:
 
-[<h3>**LinkedIn**</h3>](https://www.linkedin.com/in/cleiton-bueno/)<br>
-[<h3>**Discord**</h3>](https://www.linkedin.com/in/cleiton-bueno/)
+[<h3>**LinkedIn**</h3>](https://www.linkedin.com/in/cleiton-bueno/)
+[<h3>**Discord**</h3>]()<br>
 
           
         
