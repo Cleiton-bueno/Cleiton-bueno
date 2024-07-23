@@ -7,7 +7,7 @@
 📖 Análise e desenvolvimento de sistemas - Estácio <br>
 🧑‍💻 Desenvolvedor Front-End<br>
 
-## ALGUNS PROJETOS FRONTEND:
+## Alguns projetos Front-End:
 
 - [Projeto 1](Link)<br>
 - [Projeto 2](Link)<br>
@@ -24,8 +24,8 @@
 
 ## Contato:
 
-[**LinkedIn**](https://www.linkedin.com/in/cleiton-bueno/)
-[<h3>**Discord**</h3>](adicionar)<br>
+[**LinkedIn**](https://www.linkedin.com/in/cleiton-bueno/)<br>
+[**Discord**](adicionar)<br>
 
           
         
