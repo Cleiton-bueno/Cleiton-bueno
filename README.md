@@ -25,6 +25,11 @@ Versionamento de código com Git<br>
 [LinkedIn](https://www.linkedin.com/in/cleiton-bueno/)
 
 
+[LinkedIn]<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          
+          
+
+
 
 Fique à vontade para explorar meus projetos e entrar em contato!
 
