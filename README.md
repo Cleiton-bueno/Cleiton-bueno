@@ -17,7 +17,6 @@
 - [Projeto 2](Link)<br>
 - [Projeto 3](Link)<br>
 - [Projeto 4](Link)<br>
-- [Projeto 5](Link)<br>
 
 
 ## Tecnologias que trabalho:
@@ -34,7 +33,7 @@
 ## Contato:
 
 [**LinkedIn**](https://www.linkedin.com/in/cleiton-bueno/)<br>
-[**Discord**](adicionar)<br>
+[**Discord**](adicionar)<br><br>
 
           
         
