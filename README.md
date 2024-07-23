@@ -1,7 +1,4 @@
-<p align="center">
-<h1> Hello World 🖖</h1>
-</p>
-
+<center><h1>Hello World 🖖</h1></center>
 
 
 <p align="center">
