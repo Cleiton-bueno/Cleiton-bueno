@@ -1,6 +1,7 @@
-<center><h1> Hello World 🖖 </h1></center>
+<center><h1>Hello World 🖖 </h1></center>
 
-![Adoro esse gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif)
+![Adoro esse gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg3Z2hxazg0ZXpvcGhoY2h3aXVsdWFleDdvc3IxYXlicXlsZDVkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
+
 ---
 👋 Me chamo, Cleiton<br>
 📖 Análise e desenvolvimento de sistemas - Estácio <br>
