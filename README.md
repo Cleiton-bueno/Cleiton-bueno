@@ -24,12 +24,10 @@
 
 ## Contato:
 
-[<h3>**LinkedIn**</h3>](https://www.linkedin.com/in/cleiton-bueno/)
-[<h3>**Discord**</h3>]()<br>
+[**LinkedIn**](https://www.linkedin.com/in/cleiton-bueno/)
+[<h3>**Discord**</h3>](adicionar)<br>
 
           
         
-
-
 Fique à vontade para explorar meus projetos e entrar em contato!
 
