@@ -7,9 +7,9 @@
 
 
 ---
-#### 👋 Me chamo, Cleiton
-#### 📖 Análise e desenvolvimento de sistemas - Estácio
-#### 🧑‍💻 Desenvolvedor Front-End
+👋 Me chamo, Cleiton
+📖 Análise e desenvolvimento de sistemas - Estácio
+🧑‍💻 Desenvolvedor Front-End
 
 ## Alguns projetos Front-End:
 
