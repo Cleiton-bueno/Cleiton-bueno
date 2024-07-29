@@ -33,11 +33,11 @@
 
 ## Contato:
 
-<a href="https://www.linkedin.com/in/cleiton-bueno/" target="_self">
+<a href="https://www.linkedin.com/in/cleiton-bueno/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="120px"/>
 </a><br>
 
-<a href="https://discord.com/channels/@cleitonbueno_" target="_blank">
+<a href="https://discord.com/channels/@cleitonbueno_">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" width="120px"/>
 </a>
 
