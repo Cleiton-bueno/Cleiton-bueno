@@ -33,7 +33,7 @@
 
 ## Contato:
 
-<a href="https://www.linkedin.com/in/cleiton-bueno/" target="_blank">
+<a href="https://www.linkedin.com/in/cleiton-bueno/" target="_self">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="120px"/>
 </a><br>
 
