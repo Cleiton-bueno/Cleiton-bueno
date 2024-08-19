@@ -17,8 +17,6 @@
 
 - [Calculadora](https://github.com/Cleiton-bueno/calculadora_front.git)<br>
 - [Previsão do Tempo](https://github.com/Cleiton-bueno/app-previsao-tempo.git)<br>
-- [Projeto 3](Link)<br>
-- [Projeto 4](Link)<br>
 
 
 ## Tecnologias que trabalho:
