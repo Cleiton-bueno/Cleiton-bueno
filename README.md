@@ -9,7 +9,7 @@
 ---
 👋 Me chamo, Cleiton <br>
 📖 Análise e desenvolvimento de sistemas - Estácio <br>
-
+📖 Ciências da computação - Estácio <br>
 
 
 ## Alguns projetos Front-End:
